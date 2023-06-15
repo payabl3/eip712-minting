@@ -1,0 +1,23 @@
+{
+  "name": "eip712-minting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payabl3/eip712-minting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/payabl3/eip712-minting/issues"
+  },
+  "homepage": "https://github.com/payabl3/eip712-minting#readme",
+  "devDependencies": {
+    "hardhat": "^2.15.0"
+  }
+}
